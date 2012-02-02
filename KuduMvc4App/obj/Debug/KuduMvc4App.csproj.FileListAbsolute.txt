@@ -1,6 +1,5 @@
 D:\KuduTesting\KuduMvc4App\KuduMvc4App\bin\KuduMvc4App.dll
 D:\KuduTesting\KuduMvc4App\KuduMvc4App\bin\KuduMvc4App.pdb
-D:\KuduTesting\KuduMvc4App\KuduMvc4App\bin\EntityFramework.dll
 D:\KuduTesting\KuduMvc4App\KuduMvc4App\bin\Microsoft.Web.Infrastructure.dll
 D:\KuduTesting\KuduMvc4App\KuduMvc4App\bin\Microsoft.Web.Optimization.dll
 D:\KuduTesting\KuduMvc4App\KuduMvc4App\bin\System.Web.Helpers.dll
@@ -14,3 +13,4 @@ D:\KuduTesting\KuduMvc4App\KuduMvc4App\bin\EntityFramework.xml
 D:\KuduTesting\KuduMvc4App\KuduMvc4App\obj\Debug\ResolveAssemblyReference.cache
 D:\KuduTesting\KuduMvc4App\KuduMvc4App\obj\Debug\KuduMvc4App.dll
 D:\KuduTesting\KuduMvc4App\KuduMvc4App\obj\Debug\KuduMvc4App.pdb
+D:\KuduTesting\KuduMvc4App\KuduMvc4App\bin\Microsoft.Web.Infrastructure.xml

@@ -1,13 +1,6 @@
-/*
-* Note: While Microsoft is not the author of this file, Microsoft is
-* offering you a license subject to the terms of the Microsoft Software
-* License Terms for Microsoft ASP.NET Model View Controller 4 Developer Preview.
-* Microsoft reserves all other rights. The notices below are provided
-* for informational purposes only and are not the license terms under
-* which Microsoft distributed this file.
-*/
 // Knockout JavaScript library v1.3.0beta
 // (c) Steven Sanderson - http://knockoutjs.com/
+// License: MIT (http://www.opensource.org/licenses/mit-license.php)
 
 (function(window,undefined){ 
 function c(b){throw b;}var l=void 0,o=null,r=window.ko={};r.b=function(b,e){for(var d=b.split("."),a=window,f=0;f<d.length-1;f++)a=a[d[f]];a[d[d.length-1]]=e};r.l=function(b,e,d){b[e]=d};

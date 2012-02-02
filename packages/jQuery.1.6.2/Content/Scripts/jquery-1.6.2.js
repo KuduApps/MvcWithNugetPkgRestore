@@ -1,22 +1,18 @@
 /*!
-* Note: While Microsoft is not the author of this file, Microsoft is
-* offering you a license subject to the terms of the Microsoft Software
-* License Terms for Microsoft ASP.NET Model View Controller 4 Developer Preview.
-* Microsoft reserves all other rights. The notices below are provided
-* for informational purposes only and are not the license terms under
-* which Microsoft distributed this file.
-*
-* jQuery JavaScript Library v1.6.2
-* http://jquery.com/
-*
-* Copyright 2011, John Resig
-*
-* Includes Sizzle.js
-* http://sizzlejs.com/
-* Copyright 2011, The Dojo Foundation
-*
-* Date: Thu Jun 30 14:16:56 2011 -0400
-*/
+ * jQuery JavaScript Library v1.6.2
+ * http://jquery.com/
+ *
+ * Copyright 2011, John Resig
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * Includes Sizzle.js
+ * http://sizzlejs.com/
+ * Copyright 2011, The Dojo Foundation
+ * Released under the MIT, BSD, and GPL Licenses.
+ *
+ * Date: Thu Jun 30 14:16:56 2011 -0400
+ */
 (function( window, undefined ) {
 
 // Use the correct document accordingly with window argument (sandbox)
@@ -3736,6 +3732,8 @@ jQuery.each( ("blur focus focusin focusout load resize scroll unload click dblcl
 /*!
  * Sizzle CSS Selector Engine
  *  Copyright 2011, The Dojo Foundation
+ *  Released under the MIT, BSD, and GPL Licenses.
+ *  More information: http://sizzlejs.com/
  */
 (function(){
 
